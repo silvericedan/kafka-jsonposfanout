@@ -1,4 +1,4 @@
-{"namespace": "com.example.jsonpostfanout.model",
+{"namespace": "com.example.model",
   "type": "record",
   "name": "Notification",
   "fields": [
